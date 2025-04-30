@@ -25,8 +25,13 @@ const Navbar = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/contacts">
-                  <p>Contacts</p>
+                <Link href="/contact">
+                  <p>Contact</p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/admin">
+                  <p>Admin Panel</p>
                 </Link>
               </li>
             </ul>
